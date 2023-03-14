@@ -29,4 +29,4 @@ Go to start and type in UAC -> get the slider down. Don't worry about this. Afte
 5. back to cmd -> type in mysql -> you should get this error: ERROR 1045 (28000): Access denied for user ....
 6. type in: -u root -p & press enter when asked for password
 7. you should get this message Welcome to the MariaDB monitor.  Commands end with ; or \g.  
-8. Congrats! You are set up to write mysql commands in cmd :smile
+8. Congrats! You are set up to write mysql commands in cmd 😏
